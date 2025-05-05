@@ -65,16 +65,12 @@ public class AnalizadorLexicoGUI extends JFrame {
         btnLimpiar = new JButton("Limpiar");
         btnLimpiar.addActionListener(e -> limpiarTodo());
 
-        btnGuardar = new JButton("Guardar Código");
-        btnGuardar.addActionListener(e -> guardarCodigo());
-
         panelBotones.add(new JLabel("Tipo: "));
         panelBotones.add(cboTipoAnalisis);
         panelBotones.add(btnRobot);
         panelBotones.add(btnJava);
         panelBotones.add(btnAnalizar);
         panelBotones.add(btnLimpiar);
-        panelBotones.add(btnGuardar);
 
         // Etiqueta para el título
         JLabel lblTitulo = new JLabel("Analizador Léxico con JFlex", JLabel.CENTER);
