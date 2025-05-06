@@ -73,6 +73,6 @@ Este proyecto ha sido desarrollado y probado en Visual Studio Code con las sigui
 
 ## 👨‍💻 Autores
 
-Delgado Molina Karla Rocío
-Martínez Martínez Jesús Alexander
-Roque Hernández Diego Misael
+- Delgado Molina Karla Rocío
+- Martínez Martínez Jesús Alexander
+- Roque Hernández Diego Misael
